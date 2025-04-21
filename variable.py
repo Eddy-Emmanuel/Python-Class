@@ -1,3 +1,4 @@
 name = "Eddy"
+age  = 12
 
-print(name)
+print("My name is", name, "i'm", age, "years old.")
